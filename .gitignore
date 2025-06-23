@@ -41,5 +41,5 @@ wheels/
 ehthumbs.db
 Thumbs.db
 
-# Large data files (if you want to exclude them)
-# data/large_data.csv 
+# Large data files
+data/large_data.csv 
